@@ -1,0 +1,3 @@
+We are learning Git diff command
+This file is added to test the command
+Happy Git learning
