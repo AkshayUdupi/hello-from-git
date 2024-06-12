@@ -1,1 +1,3 @@
-Hello world from Git
+Hello world from Git git is nice
+GIt is better with GItHub
+Learn Git, And AWS to get a great job
