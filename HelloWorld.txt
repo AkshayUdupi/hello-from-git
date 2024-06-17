@@ -1,3 +1,5 @@
 Hello World!
 
 Cool guys...
+
+Newline added in feature2 branch
