@@ -6,3 +6,4 @@ newline added from main branch
 feature1 branch
 branch1
 main branchgit switch
+Latest change from feature1 branch
