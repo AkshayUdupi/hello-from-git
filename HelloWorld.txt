@@ -1,2 +1,9 @@
 Hello World!
 Cool guys...
+Newline added in feature2 branch
+Cool guys!!!!
+newline added from main branch
+feature1 branch
+branch1
+main branchgit switch
+Latest change from feature1 branch
